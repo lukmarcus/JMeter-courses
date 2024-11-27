@@ -2,6 +2,7 @@
 
 - [BlazeMeter University: Apache JMeter™ Intro](https://university.blazemeter.com/learn/courses/485/apache-jmeter-intro)
 - [BlazeMeter University: Apache JMeter™ Pro](https://university.blazemeter.com/learn/courses/491/apache-jmeter-pro)
+- [BlazeMeter University: Apache JMeter™ Autocorrelation Recorder](https://university.blazemeter.com/learn/courses/492/jmeter-autocorrelation-recorder)
 
 # JMeter
 
